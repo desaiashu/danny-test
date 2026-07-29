@@ -91,6 +91,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "grn": {
+      "id": "grn",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -101,7 +111,8 @@
     "rxa",
     "rvv",
     "rkm",
-    "xym"
+    "xym",
+    "grn"
   ],
   "sections": {
     "wtb": {

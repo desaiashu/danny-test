@@ -8,6 +8,12 @@
   "clipMix": {},
   "sends": [
     {
+      "trackId": "grn",
+      "returnId": "rxa",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "ynu",
       "returnId": "rmj",
       "gain": 0.0,
@@ -40,6 +46,24 @@
     {
       "trackId": "zeq",
       "returnId": "rkm",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "grn",
+      "returnId": "rmj",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "grn",
+      "returnId": "rkm",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "grn",
+      "returnId": "rvv",
       "gain": 0.0,
       "preFader": false
     },

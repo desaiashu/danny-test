@@ -22,6 +22,9 @@ tracks
   4 Audio |xym
     type audio
     strip tivraStrip
+  5 MIDI |grn
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rmj
