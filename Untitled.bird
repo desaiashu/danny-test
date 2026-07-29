@@ -47,3 +47,5 @@ sec main
     c 0:0 32:0 |inxn
   trk 3 Bass |bss
     c 0:0 32:0 |qnxh
+  trk 5 MIDI |grn
+    c 4:0 4:0 |ygts
