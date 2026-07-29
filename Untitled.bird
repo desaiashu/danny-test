@@ -19,6 +19,9 @@ tracks
     type midi
     plugin tivra303
     strip tivraStrip
+  4 Audio |xym
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rmj
