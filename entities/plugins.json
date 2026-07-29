@@ -322,8 +322,8 @@
       "eqMid2Freq": 580.0,
       "eqMid2Gain": -4.3,
       "eqHighQ": 1.64,
-      "eqHighFreq": 2000.0,
-      "eqHighGain": -3.8
+      "eqHighFreq": 5020.0,
+      "eqHighGain": -5.0
     },
     "sidechainSensitivity": 0.6000000238418579
   },
