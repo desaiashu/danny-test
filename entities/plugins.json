@@ -321,7 +321,9 @@
       "loCutFreq": 569.0,
       "eqMid2Freq": 580.0,
       "eqMid2Gain": -4.3,
-      "eqHighQ": 1.64
+      "eqHighQ": 1.64,
+      "eqHighFreq": 3090.0,
+      "eqHighGain": 1.2000000000000002
     },
     "sidechainSensitivity": 0.6000000238418579
   },
