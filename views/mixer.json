@@ -5,7 +5,12 @@
     "muted": false,
     "mono": false
   },
-  "clipMix": {},
+  "clipMix": {
+    "anfl": {
+      "gain": 1.0,
+      "muted": false
+    }
+  },
   "sends": [
     {
       "trackId": "xym",
