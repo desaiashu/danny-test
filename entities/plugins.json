@@ -316,7 +316,7 @@
     "slot": "channelStrip",
     "enabled": true,
     "state": {
-      "hiCutFreq": 21750.0
+      "hiCutFreq": 14750.0
     },
     "sidechainSensitivity": 0.6000000238418579
   },
