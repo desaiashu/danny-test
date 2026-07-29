@@ -450,5 +450,14 @@
     "enabled": true,
     "state": null,
     "sidechainSensitivity": 0.6000000238418579
+  },
+  "wqhn": {
+    "id": "wqhn",
+    "trackId": "grn",
+    "typeName": "Jup-8 V4",
+    "slot": "instrument",
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
   }
 }

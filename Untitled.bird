@@ -24,6 +24,7 @@ tracks
     strip tivraStrip
   5 MIDI |grn
     type midi
+    plugin Jup-8 V4
     strip tivraStrip
 
 returns
