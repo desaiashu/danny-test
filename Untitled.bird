@@ -37,3 +37,5 @@ returns
 sec main
   trk 1 Drums |ynu
     c 0:0 32:0 |eddx
+  trk 2 Chords |zeq
+    c 0:0 32:0 |inxn
