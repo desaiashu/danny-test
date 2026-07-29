@@ -195,7 +195,7 @@
       "hiCutFreq": 12050.0,
       "eqLowGain": 0.0,
       "eqLowFreq": 100.0,
-      "eqMid1Gain": 0.0,
+      "eqMid1Gain": -6.5,
       "eqMid1Freq": 500.0,
       "eqMid1Q": 1.0,
       "eqMid2Gain": 0.0,
