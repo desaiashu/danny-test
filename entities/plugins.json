@@ -192,7 +192,7 @@
     "state": {
       "inputGainDb": 0.0,
       "loCutFreq": 16.0,
-      "hiCutFreq": 12050.0,
+      "hiCutFreq": 1000.0,
       "eqLowGain": 0.0,
       "eqLowFreq": 100.0,
       "eqMid1Gain": -6.5,
