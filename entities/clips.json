@@ -94,5 +94,35 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "anfl": {
+    "id": "anfl",
+    "trackId": "xym",
+    "name": "lyria3-2-5-1-chords-124-1785355810617-7j0q3naw",
+    "startBeat": 16.67120328653497,
+    "lengthBeats": 63.99997361111112,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/generated/lyria3-2-5-1-chords-124-1785355810617-7j0q3naw.mp3",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 1486451,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpm": 124.0,
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.008266666666666667,
+    "fadeOutBeats": 0.008266666666666667,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
   }
 }
