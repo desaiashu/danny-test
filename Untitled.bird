@@ -56,6 +56,8 @@ sec main
   trk 4 Audio |xym
     c 1:0 19:0 |anfl
       samples/generated/lyria3-2-5-1-chords-124-1785355810617-7j0q3naw.mp3
+    c 24:91 5:288 |asen
+      samples/generated/lyria3-gentle-pad-124-bpm-in-1785360960185-e3xd0hvb.mp3
   trk 5 MIDI |grn
     c 5:0 1:0 |ygts
       p q q h

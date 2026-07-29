@@ -326,5 +326,35 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "asen": {
+    "id": "asen",
+    "trackId": "xym",
+    "name": "lyria3-gentle-pad-124-bpm-in-1785360960185-e3xd0hvb",
+    "startBeat": 96.95251737375972,
+    "lengthBeats": 22.999976388888893,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/generated/lyria3-gentle-pad-124-bpm-in-1785360960185-e3xd0hvb.mp3",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 534193,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpm": 124.0,
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.008266666666666667,
+    "fadeOutBeats": 0.008266666666666667,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
   }
 }
