@@ -129,6 +129,14 @@
           "beat": 46.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "kjwwfm",
+          "note": 48,
+          "velocity": 100,
+          "beat": 51.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
