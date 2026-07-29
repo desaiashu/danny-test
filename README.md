@@ -16,12 +16,12 @@ A [Songbird](https://tivra.com) project.
 - Drums
 - Chords
 - Bass
+- Audio
+- MIDI
 - Hall
 - Plate
 - Delay
 - Color
-- Audio
-- MIDI
 
 ## Layout
 

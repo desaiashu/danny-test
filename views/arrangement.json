@@ -42,6 +42,26 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
+    "xym": {
+      "id": "xym",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "grn": {
+      "id": "grn",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
     "rmj": {
       "id": "rmj",
       "name": "Hall",
@@ -81,38 +101,18 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
-    },
-    "xym": {
-      "id": "xym",
-      "name": "Audio",
-      "trackType": "audio",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
-    "grn": {
-      "id": "grn",
-      "name": "MIDI",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
     "ynu",
     "zeq",
     "bss",
+    "xym",
+    "grn",
     "rmj",
     "rxa",
     "rvv",
-    "rkm",
-    "xym",
-    "grn"
+    "rkm"
   ],
   "sections": {
     "wtb": {

@@ -309,6 +309,24 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
+  "ldrf": {
+    "id": "ldrf",
+    "trackId": "xym",
+    "typeName": "tivraStrip",
+    "slot": "channelStrip",
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
+  },
+  "wikm": {
+    "id": "wikm",
+    "trackId": "grn",
+    "typeName": "tivraStrip",
+    "slot": "channelStrip",
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
+  },
   "xhoi": {
     "id": "xhoi",
     "trackId": "rmj",
@@ -418,24 +436,6 @@
   "tepq": {
     "id": "tepq",
     "trackId": "rkm",
-    "typeName": "tivraStrip",
-    "slot": "channelStrip",
-    "enabled": true,
-    "state": null,
-    "sidechainSensitivity": 0.6000000238418579
-  },
-  "ldrf": {
-    "id": "ldrf",
-    "trackId": "xym",
-    "typeName": "tivraStrip",
-    "slot": "channelStrip",
-    "enabled": true,
-    "state": null,
-    "sidechainSensitivity": 0.6000000238418579
-  },
-  "wikm": {
-    "id": "wikm",
-    "trackId": "grn",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,

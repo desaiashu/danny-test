@@ -71,16 +71,21 @@
       "mode": "eighth"
     }
   },
-  "ygts": {
-    "id": "ygts",
-    "trackId": "grn",
-    "name": "MIDI",
-    "startBeat": 16.0,
-    "lengthBeats": 16.0,
+  "anfl": {
+    "id": "anfl",
+    "trackId": "xym",
+    "name": "lyria3-2-5-1-chords-124-1785355810617-7j0q3naw.mp3",
+    "startBeat": 16.666666666666668,
+    "lengthBeats": 64.0,
     "offsetBeats": 0.0,
     "source": {
-      "type": "Midi",
-      "notes": []
+      "type": "Audio",
+      "path": "samples/generated/lyria3-2-5-1-chords-124-1785355810617-7j0q3naw.mp3",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 0,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
     },
     "araEnabled": false,
     "araBypassed": false,
@@ -95,28 +100,119 @@
       "mode": "eighth"
     }
   },
-  "anfl": {
-    "id": "anfl",
-    "trackId": "xym",
-    "name": "lyria3-2-5-1-chords-124-1785355810617-7j0q3naw",
-    "startBeat": 16.67120328653497,
-    "lengthBeats": 63.99997361111112,
+  "ygts": {
+    "id": "ygts",
+    "trackId": "grn",
+    "name": "MIDI - clip",
+    "startBeat": 20.0,
+    "lengthBeats": 4.0,
     "offsetBeats": 0.0,
     "source": {
-      "type": "Audio",
-      "path": "samples/generated/lyria3-2-5-1-chords-124-1785355810617-7j0q3naw.mp3",
-      "sampleRate": 48000.0,
-      "channels": 2,
-      "lengthSamples": 1486451,
-      "timeStretchMode": "Signalsmith",
-      "sourceBpm": 124.0,
-      "sourceBpmOrigin": "Inherited"
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "olkogu",
+          "note": 50,
+          "velocity": 90,
+          "beat": 0.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "olkpsr",
+          "note": 53,
+          "velocity": 90,
+          "beat": 0.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "olkpsw",
+          "note": 57,
+          "velocity": 90,
+          "beat": 0.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "olkpsx",
+          "note": 60,
+          "velocity": 90,
+          "beat": 0.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "olklfo",
+          "note": 55,
+          "velocity": 90,
+          "beat": 1.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "olklfp",
+          "note": 59,
+          "velocity": 90,
+          "beat": 1.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "olklfe",
+          "note": 62,
+          "velocity": 90,
+          "beat": 1.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "olklff",
+          "note": 65,
+          "velocity": 90,
+          "beat": 1.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "olkjvs",
+          "note": 60,
+          "velocity": 90,
+          "beat": 2.0,
+          "durationBeats": 2.0,
+          "channel": 0
+        },
+        {
+          "id": "olklgz",
+          "note": 64,
+          "velocity": 90,
+          "beat": 2.0,
+          "durationBeats": 2.0,
+          "channel": 0
+        },
+        {
+          "id": "olklhe",
+          "note": 67,
+          "velocity": 90,
+          "beat": 2.0,
+          "durationBeats": 2.0,
+          "channel": 0
+        },
+        {
+          "id": "olklhf",
+          "note": 71,
+          "velocity": 90,
+          "beat": 2.0,
+          "durationBeats": 2.0,
+          "channel": 0
+        }
+      ]
     },
     "araEnabled": false,
     "araBypassed": false,
     "gain": 1.0,
-    "fadeInBeats": 0.008266666666666667,
-    "fadeOutBeats": 0.008266666666666667,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
     "loopEnabled": false,
     "reversed": false,
