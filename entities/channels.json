@@ -39,7 +39,7 @@
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
-    "solo": true,
+    "solo": false,
     "spatial": {
       "azimuth": 0.0,
       "elevation": 0.0,
