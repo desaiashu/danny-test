@@ -9,7 +9,38 @@
         "kind": "spectrogram",
         "inputSource": "{\"kind\":\"main\"}"
       }
+    },
+    "fjgc": {
+      "id": "fjgc",
+      "name": "veo-tokyo-nighttime-1785361080894-91qwojac",
+      "kind": {
+        "type": "VideoSource",
+        "path": "videos/generated/veo-tokyo-nighttime-1785361080894-91qwojac.mp4",
+        "startBeat": 0.0,
+        "durationSeconds": 0.0,
+        "frameRate": 0.0,
+        "width": 0,
+        "height": 0,
+        "mimeType": "video/mp4",
+        "sourceInSeconds": 0.0,
+        "sourceOutSeconds": 0.0
+      }
+    },
+    "ewqv": {
+      "id": "ewqv",
+      "name": "viewport[video_tab]",
+      "kind": {
+        "type": "ViewportSink",
+        "target": "video_tab"
+      }
     }
   },
-  "edges": {}
+  "edges": {
+    "eycq": {
+      "id": "eycq",
+      "from": "fjgc",
+      "to": "ewqv",
+      "portKind": "texture"
+    }
+  }
 }
