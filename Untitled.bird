@@ -35,3 +35,5 @@ returns
     strip tivraStrip
 
 sec main
+  trk 1 Drums |ynu
+    c 0:0 32:0 |eddx
