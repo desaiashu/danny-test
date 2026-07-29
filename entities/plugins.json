@@ -243,7 +243,7 @@
     "slot": "instrument",
     "enabled": true,
     "state": {
-      "cutoff": 800.0,
+      "cutoff": 7384.0,
       "resonance": 60.0,
       "envMod": 50.0,
       "envDecay": 200.0,
