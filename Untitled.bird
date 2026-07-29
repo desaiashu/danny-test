@@ -43,6 +43,9 @@ returns
 sec main
   trk 1 Drums |ynu
     c 0:0 32:0 |eddx
+      p _w _hd q _w30
+        v 100
+        n E2
   trk 2 Chords |zeq
     c 0:0 32:0 |inxn
   trk 3 Bass |bss
