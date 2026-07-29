@@ -1,0 +1,8 @@
+# Route the entity/view/state layout through the songbird-merge driver so
+# rebases resolve field-level (keyed on entity id) instead of conflicting.
+*.bird             merge=songbird-merge
+manifest.json      merge=songbird-merge
+entities/*.json    merge=songbird-merge
+entities/**/*.json merge=songbird-merge
+views/*.json       merge=songbird-merge
+state/*.json       merge=songbird-merge

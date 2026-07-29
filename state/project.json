@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "id": "xpmdym",
+    "name": "Untitled",
+    "formatVersion": "2.0.0",
+    "createdAt": "",
+    "modifiedAt": ""
+  },
+  "markers": {},
+  "regions": {},
+  "engineConfig": {
+    "sampleRate": 48000.0,
+    "bufferSize": 512
+  },
+  "trackAppearance": {},
+  "customEditors": {},
+  "scriptFxEditors": {},
+  "videoFilePath": null
+}
