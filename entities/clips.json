@@ -16,6 +16,14 @@
           "beat": 7.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "pennxs",
+          "note": 43,
+          "velocity": 100,
+          "beat": 22.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
