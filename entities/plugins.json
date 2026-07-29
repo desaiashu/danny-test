@@ -317,7 +317,7 @@
     "enabled": true,
     "state": {
       "hiCutFreq": 1000.0,
-      "eqMid1Q": 0.1
+      "eqMid1Q": 1.29
     },
     "sidechainSensitivity": 0.6000000238418579
   },
