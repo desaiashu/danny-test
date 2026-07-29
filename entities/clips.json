@@ -32,6 +32,14 @@
           "beat": 34.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "2qvfza",
+          "note": 42,
+          "velocity": 100,
+          "beat": 47.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
