@@ -4,17 +4,18 @@ A [Songbird](https://tivra.com) project.
 
 | | |
 |---|---|
-| Tempo | 130 BPM |
+| Tempo | 124 BPM |
 | Meter | 4/4 |
-| Tracks | 6 |
+| Tracks | 7 |
 | Clips | 0 |
-| Plugins | 11 |
+| Plugins | 14 |
 | Automation lanes | 0 |
 
 ## Tracks
 
-- audio
-- midi
+- Drums
+- Chords
+- Bass
 - Hall
 - Plate
 - Delay

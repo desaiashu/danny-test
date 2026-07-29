@@ -1,5 +1,5 @@
 sig
-  bpm 130
+  bpm 124
   system 12tet western
   scale C chromatic
 
@@ -7,12 +7,17 @@ arr
   main 32 |wtb
 
 tracks
-  1 audio |ynu
-    type audio
-    strip tivraStrip
-  2 midi |zeq
+  1 Drums |ynu
     type midi
-    plugin tivra4OSC
+    plugin tivraDrumMachine
+    strip tivraStrip
+  2 Chords |zeq
+    type midi
+    plugin tivraFM
+    strip tivraStrip
+  3 Bass |bss
+    type midi
+    plugin tivra303
     strip tivraStrip
 
 returns

@@ -1,6 +1,6 @@
 {
   "name": "Untitled",
-  "bpm": 130.0,
+  "bpm": 124.0,
   "key": "C major",
   "scale": {
     "division": "12tet",
@@ -14,8 +14,8 @@
   "tracks": {
     "ynu": {
       "id": "ynu",
-      "name": "audio",
-      "trackType": "audio",
+      "name": "Drums",
+      "trackType": "midi",
       "auditionLane": null,
       "takeLaneCount": 0,
       "audioFlipped": false,
@@ -24,7 +24,17 @@
     },
     "zeq": {
       "id": "zeq",
-      "name": "midi",
+      "name": "Chords",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "bss": {
+      "id": "bss",
+      "name": "Bass",
       "trackType": "midi",
       "auditionLane": null,
       "takeLaneCount": 0,
@@ -76,6 +86,7 @@
   "trackOrder": [
     "ynu",
     "zeq",
+    "bss",
     "rmj",
     "rxa",
     "rvv",
