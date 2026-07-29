@@ -177,7 +177,7 @@
       "op4Level": 0.20000000298023224,
       "attackMs": 10.0,
       "decayMs": 300.0,
-      "sustain": 0.5,
+      "sustain": 0.0,
       "releaseMs": 500.0,
       "level": 0.5
     },
