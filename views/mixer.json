@@ -8,14 +8,20 @@
   "clipMix": {},
   "sends": [
     {
-      "trackId": "bss",
-      "returnId": "rvv",
+      "trackId": "ynu",
+      "returnId": "rkm",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "ynu",
       "returnId": "rmj",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "zeq",
+      "returnId": "rvv",
       "gain": 0.0,
       "preFader": false
     },
@@ -32,14 +38,14 @@
       "preFader": false
     },
     {
-      "trackId": "zeq",
-      "returnId": "rkm",
+      "trackId": "bss",
+      "returnId": "rvv",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "ynu",
-      "returnId": "rxa",
+      "trackId": "zeq",
+      "returnId": "rkm",
       "gain": 0.0,
       "preFader": false
     },
@@ -50,14 +56,14 @@
       "preFader": false
     },
     {
-      "trackId": "zeq",
-      "returnId": "rmj",
+      "trackId": "ynu",
+      "returnId": "rxa",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "ynu",
-      "returnId": "rkm",
+      "trackId": "zeq",
+      "returnId": "rxa",
       "gain": 0.0,
       "preFader": false
     },
@@ -69,13 +75,7 @@
     },
     {
       "trackId": "zeq",
-      "returnId": "rxa",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "zeq",
-      "returnId": "rvv",
+      "returnId": "rmj",
       "gain": 0.0,
       "preFader": false
     }
