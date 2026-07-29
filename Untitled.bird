@@ -48,7 +48,7 @@ sec main
   trk 3 Bass |bss
     c 0:0 32:0 |qnxh
   trk 4 Audio |xym
-    c 1:0 19:64 |anfl
+    c 1:0 19:0 |anfl
       samples/generated/lyria3-2-5-1-chords-124-1785355810617-7j0q3naw.mp3
   trk 5 MIDI |grn
     c 5:0 1:0 |ygts
