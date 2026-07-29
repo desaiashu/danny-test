@@ -10,7 +10,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "shsa3p",
+          "id": "pmgxod",
           "note": 40,
           "velocity": 100,
           "beat": 7.0,
@@ -18,7 +18,7 @@
           "channel": 0
         },
         {
-          "id": "pennxs",
+          "id": "pmgzaa",
           "note": 43,
           "velocity": 100,
           "beat": 22.0,
@@ -26,7 +26,7 @@
           "channel": 0
         },
         {
-          "id": "96ncij",
+          "id": "pmgzab",
           "note": 40,
           "velocity": 100,
           "beat": 34.0,
@@ -34,7 +34,7 @@
           "channel": 0
         },
         {
-          "id": "2qvfza",
+          "id": "pmhane",
           "note": 42,
           "velocity": 100,
           "beat": 47.0,
@@ -91,7 +91,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "e6xpt4",
+          "id": "pmlvjb",
           "note": 49,
           "velocity": 100,
           "beat": 4.0,
@@ -99,7 +99,7 @@
           "channel": 0
         },
         {
-          "id": "6psqnu",
+          "id": "pmlvjc",
           "note": 43,
           "velocity": 100,
           "beat": 14.0,
@@ -107,7 +107,7 @@
           "channel": 0
         },
         {
-          "id": "tct8is",
+          "id": "pmlwvp",
           "note": 49,
           "velocity": 100,
           "beat": 26.0,
@@ -115,7 +115,7 @@
           "channel": 0
         },
         {
-          "id": "thr313",
+          "id": "pmlwvq",
           "note": 42,
           "velocity": 100,
           "beat": 33.0,
@@ -123,7 +123,7 @@
           "channel": 0
         },
         {
-          "id": "qe05ds",
+          "id": "pmlwvr",
           "note": 46,
           "velocity": 100,
           "beat": 46.0,
@@ -131,7 +131,7 @@
           "channel": 0
         },
         {
-          "id": "kjwwfm",
+          "id": "pmlyie",
           "note": 48,
           "velocity": 100,
           "beat": 51.0,
@@ -182,6 +182,35 @@
       "mode": "eighth"
     }
   },
+  "asen": {
+    "id": "asen",
+    "trackId": "xym",
+    "name": "lyria3-gentle-pad-124-bpm-in-1785360960185-e3xd0hvb.mp3",
+    "startBeat": 96.94791666666667,
+    "lengthBeats": 23.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/generated/lyria3-gentle-pad-124-bpm-in-1785360960185-e3xd0hvb.mp3",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 0,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
   "ygts": {
     "id": "ygts",
     "trackId": "grn",
@@ -193,7 +222,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "olkogu",
+          "id": "pmkggj",
           "note": 50,
           "velocity": 90,
           "beat": 0.0,
@@ -201,31 +230,7 @@
           "channel": 0
         },
         {
-          "id": "olkpsr",
-          "note": 53,
-          "velocity": 90,
-          "beat": 0.0,
-          "durationBeats": 1.0,
-          "channel": 0
-        },
-        {
-          "id": "olkpsw",
-          "note": 57,
-          "velocity": 90,
-          "beat": 0.0,
-          "durationBeats": 1.0,
-          "channel": 0
-        },
-        {
-          "id": "olkpsx",
-          "note": 60,
-          "velocity": 90,
-          "beat": 0.0,
-          "durationBeats": 1.0,
-          "channel": 0
-        },
-        {
-          "id": "olklfo",
+          "id": "pmkhsw",
           "note": 55,
           "velocity": 90,
           "beat": 1.0,
@@ -233,31 +238,7 @@
           "channel": 0
         },
         {
-          "id": "olklfp",
-          "note": 59,
-          "velocity": 90,
-          "beat": 1.0,
-          "durationBeats": 1.0,
-          "channel": 0
-        },
-        {
-          "id": "olklfe",
-          "note": 62,
-          "velocity": 90,
-          "beat": 1.0,
-          "durationBeats": 1.0,
-          "channel": 0
-        },
-        {
-          "id": "olklff",
-          "note": 65,
-          "velocity": 90,
-          "beat": 1.0,
-          "durationBeats": 1.0,
-          "channel": 0
-        },
-        {
-          "id": "olkjvs",
+          "id": "pmkhsx",
           "note": 60,
           "velocity": 90,
           "beat": 2.0,
@@ -265,7 +246,23 @@
           "channel": 0
         },
         {
-          "id": "olklgz",
+          "id": "pmjoei",
+          "note": 53,
+          "velocity": 90,
+          "beat": 0.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "pmjoej",
+          "note": 59,
+          "velocity": 90,
+          "beat": 1.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "pmjpss",
           "note": 64,
           "velocity": 90,
           "beat": 2.0,
@@ -273,7 +270,23 @@
           "channel": 0
         },
         {
-          "id": "olklhe",
+          "id": "pmjsvj",
+          "note": 57,
+          "velocity": 90,
+          "beat": 0.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "pmjsvk",
+          "note": 62,
+          "velocity": 90,
+          "beat": 1.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "pmjujt",
           "note": 67,
           "velocity": 90,
           "beat": 2.0,
@@ -281,7 +294,23 @@
           "channel": 0
         },
         {
-          "id": "olklhf",
+          "id": "pmbodq",
+          "note": 60,
+          "velocity": 90,
+          "beat": 0.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "pmbodr",
+          "note": 65,
+          "velocity": 90,
+          "beat": 1.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "pmbodc",
           "note": 71,
           "velocity": 90,
           "beat": 2.0,
@@ -306,49 +335,148 @@
   "lftz": {
     "id": "lftz",
     "trackId": "grn",
-    "name": "MIDI",
+    "name": "MIDI - clip",
     "startBeat": 84.0,
     "lengthBeats": 16.0,
     "offsetBeats": 0.0,
     "source": {
       "type": "Midi",
-      "notes": []
+      "notes": [
+        {
+          "id": "pmaujp",
+          "note": 50,
+          "velocity": 90,
+          "beat": 0.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmavxi",
+          "note": 53,
+          "velocity": 90,
+          "beat": 0.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmavxj",
+          "note": 57,
+          "velocity": 90,
+          "beat": 0.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmavxk",
+          "note": 60,
+          "velocity": 90,
+          "beat": 0.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmawsr",
+          "note": 43,
+          "velocity": 90,
+          "beat": 4.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmawss",
+          "note": 47,
+          "velocity": 90,
+          "beat": 4.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmawst",
+          "note": 50,
+          "velocity": 90,
+          "beat": 4.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmawro",
+          "note": 53,
+          "velocity": 90,
+          "beat": 4.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmayhd",
+          "note": 48,
+          "velocity": 90,
+          "beat": 8.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmayhe",
+          "note": 52,
+          "velocity": 90,
+          "beat": 8.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmazvn",
+          "note": 55,
+          "velocity": 90,
+          "beat": 8.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmazvo",
+          "note": 59,
+          "velocity": 90,
+          "beat": 8.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmadcn",
+          "note": 48,
+          "velocity": 90,
+          "beat": 12.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmadco",
+          "note": 52,
+          "velocity": 90,
+          "beat": 12.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmadcp",
+          "note": 55,
+          "velocity": 90,
+          "beat": 12.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "pmadca",
+          "note": 59,
+          "velocity": 90,
+          "beat": 12.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        }
+      ]
     },
     "araEnabled": false,
     "araBypassed": false,
     "gain": 1.0,
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
-    "fadeCurve": 1.0,
-    "loopEnabled": false,
-    "reversed": false,
-    "swing": {
-      "amount": 0.0,
-      "mode": "eighth"
-    }
-  },
-  "asen": {
-    "id": "asen",
-    "trackId": "xym",
-    "name": "lyria3-gentle-pad-124-bpm-in-1785360960185-e3xd0hvb",
-    "startBeat": 96.95251737375972,
-    "lengthBeats": 22.999976388888893,
-    "offsetBeats": 0.0,
-    "source": {
-      "type": "Audio",
-      "path": "samples/generated/lyria3-gentle-pad-124-bpm-in-1785360960185-e3xd0hvb.mp3",
-      "sampleRate": 48000.0,
-      "channels": 2,
-      "lengthSamples": 534193,
-      "timeStretchMode": "Signalsmith",
-      "sourceBpm": 124.0,
-      "sourceBpmOrigin": "Inherited"
-    },
-    "araEnabled": false,
-    "araBypassed": false,
-    "gain": 1.0,
-    "fadeInBeats": 0.008266666666666667,
-    "fadeOutBeats": 0.008266666666666667,
     "fadeCurve": 1.0,
     "loopEnabled": false,
     "reversed": false,

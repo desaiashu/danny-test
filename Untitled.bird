@@ -73,3 +73,15 @@ sec main
         v 90
         n C4 F4 B4
     c 21:0 4:0 |lftz
+      p w
+        v 90
+        n D3 G2 C3 C3
+        .
+        v 90
+        n F3 B2 E3 E3
+        .
+        v 90
+        n A3 D3 G3 G3
+        .
+        v 90
+        n C4 F3 B3 B3
