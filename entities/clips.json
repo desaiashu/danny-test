@@ -75,9 +75,9 @@
     "id": "anfl",
     "trackId": "xym",
     "name": "lyria3-2-5-1-chords-124-1785355810617-7j0q3naw.mp3",
-    "startBeat": 32.0,
-    "lengthBeats": 48.66666666666667,
-    "offsetBeats": 15.333333333333332,
+    "startBeat": 4.0,
+    "lengthBeats": 76.66666666666667,
+    "offsetBeats": 0.0,
     "source": {
       "type": "Audio",
       "path": "samples/generated/lyria3-2-5-1-chords-124-1785355810617-7j0q3naw.mp3",
