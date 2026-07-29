@@ -121,6 +121,14 @@
           "beat": 33.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "qe05ds",
+          "note": 46,
+          "velocity": 100,
+          "beat": 46.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
