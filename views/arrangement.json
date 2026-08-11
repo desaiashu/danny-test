@@ -101,6 +101,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "umi": {
+      "id": "umi",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -112,7 +122,8 @@
     "rmj",
     "rxa",
     "rvv",
-    "rkm"
+    "rkm",
+    "umi"
   ],
   "sections": {
     "wtb": {

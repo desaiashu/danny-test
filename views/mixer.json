@@ -20,6 +20,18 @@
       "preFader": false
     },
     {
+      "trackId": "umi",
+      "returnId": "rxa",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "umi",
+      "returnId": "rkm",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "bss",
       "returnId": "rmj",
       "gain": 0.0,
@@ -116,8 +128,20 @@
       "preFader": false
     },
     {
+      "trackId": "umi",
+      "returnId": "rmj",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "xym",
       "returnId": "rmj",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "umi",
+      "returnId": "rvv",
       "gain": 0.0,
       "preFader": false
     },

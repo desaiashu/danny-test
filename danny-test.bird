@@ -26,6 +26,9 @@ tracks
     type midi
     plugin Jup-8 V4
     strip tivraStrip
+  6 Audio |umi
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rmj
