@@ -163,9 +163,9 @@
     "source": {
       "type": "Audio",
       "path": "samples/generated/lyria3-2-5-1-chords-124-1785355810617-7j0q3naw.mp3",
-      "sampleRate": 48000.0,
+      "sampleRate": 44100.0,
       "channels": 2,
-      "lengthSamples": 0,
+      "lengthSamples": 1357056,
       "timeStretchMode": "Signalsmith",
       "sourceBpmOrigin": "Inherited"
     },
@@ -192,9 +192,9 @@
     "source": {
       "type": "Audio",
       "path": "samples/generated/lyria3-gentle-pad-124-bpm-in-1785360960185-e3xd0hvb.mp3",
-      "sampleRate": 48000.0,
+      "sampleRate": 44100.0,
       "channels": 2,
-      "lengthSamples": 0,
+      "lengthSamples": 1357056,
       "timeStretchMode": "Signalsmith",
       "sourceBpmOrigin": "Inherited"
     },
