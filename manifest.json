@@ -1,14 +1,1 @@
-{
-  "samples/generated/lyria3-2-5-1-chords-124-1785355810617-7j0q3naw.mp3": {
-    "sha256": "5a624bcbcc1d214a468c29012ae0930379ef636866fcdae7e971f2b0215c0d32",
-    "bytes": 744610
-  },
-  "samples/generated/lyria3-gentle-pad-124-bpm-in-1785360960185-e3xd0hvb.mp3": {
-    "sha256": "3862774088df344be8a9afd5a53fc831f8a0d5b5f747adce5ac128fc2f4b3fcf",
-    "bytes": 744610
-  },
-  "videos/generated/veo-tokyo-nighttime-1785361080894-91qwojac.mp4": {
-    "sha256": "6dc87c48e5b4be6e69ef3bb5256c673e0b018efa53188b6af11970d5ee79df5b",
-    "bytes": 12433734
-  }
-}
+{}
